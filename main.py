@@ -7,7 +7,6 @@ from BaseAdmin.admin import AdminWindow
 from BaseLogin.login import LoginWindow
 from PointOfSale.pos import PosWindow
 from kivy.core.window import Window
-from Control.thecontrol import ControlWindow
 
 # New size
 size = (1100, 630)
