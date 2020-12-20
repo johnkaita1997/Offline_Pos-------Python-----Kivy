@@ -1,0 +1,9 @@
+Purchase Amount:                            
+           Date 2020-10-10 2080-11-10 2020-11-01 2020-11-01 2020-11-01 2020-11-01 2020-11-01
+         Amount     1300.0     1300.0     1300.0     1300.0     6195.0     6195.0     5189.0
+        Payment     M-Pesa       Cash     M-Pesa     M-Pesa       Cash       Cash       Cash
+         Served John Kaita John Kaita John Kaita The Administrator John Kaita John Kaita John Kaita
+       Location     Kisumu     Kisumu     Kisumu     Kisumu     Kisumu     Kisumu     Kisumu
+           Code    ASDFADF       None     asdfgh asdffg245462       None       None       None
+    Customerpay       2000       1600       6195      70000       2000       2000       2000
+        Balance      700.0      300.0        0.0    64811.0      701.0        1.0      401.0
