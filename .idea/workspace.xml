@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/BaseAdmin/admin.py" line="819" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac766113-1db1-4833-8139-ea60f22a0456" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ac766113-1db1-4833-8139-ea60f22a0456" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="425">
+              <caret line="26" column="70" lean-forward="true" selection-start-line="26" selection-start-column="70" selection-end-line="26" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -205,13 +203,13 @@
         <option value="$PROJECT_DIR$/BaseLogin/login.py" />
         <option value="$PROJECT_DIR$/testmysql.py" />
         <option value="$PROJECT_DIR$/unsurcod3.py" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/main.kv" />
         <option value="$PROJECT_DIR$/BaseLogin/login.kv" />
         <option value="$PROJECT_DIR$/PointOfSale/pos.kv" />
         <option value="$PROJECT_DIR$/PointOfSale/pos.py" />
         <option value="$PROJECT_DIR$/BaseAdmin/admin.py" />
         <option value="$PROJECT_DIR$/BaseAdmin/admin.kv" />
+        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
@@ -446,7 +444,7 @@
       <workItem from="1605228721555" duration="56061000" />
       <workItem from="1605529194995" duration="10550000" />
       <workItem from="1605931270562" duration="1187000" />
-      <workItem from="1608437088347" duration="8762000" />
+      <workItem from="1608437088347" duration="9423000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1601976903503</created>
@@ -483,11 +481,25 @@
       <option name="project" value="LOCAL" />
       <updated>1608464873658</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Initial Commit">
+      <created>1608467146305</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608467146305</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial Commit">
+      <created>1608467309426</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608467309426</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="744400000" />
+    <option name="totallyTimeSpent" value="745061000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -857,8 +869,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="425">
+          <caret line="26" column="70" lean-forward="true" selection-start-line="26" selection-start-column="70" selection-end-line="26" selection-end-column="70" />
         </state>
       </provider>
     </entry>
